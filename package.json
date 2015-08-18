@@ -20,7 +20,7 @@
     "react-component-gulp-tasks": "^0.7.0"
   },
   "peerDependencies": {
-    "react": ">=0.13.0"
+    "react": ">=0.13.0 || ^0.14.0-alpha"
   },
   "browserify-shim": {
     "react": "global:React"
